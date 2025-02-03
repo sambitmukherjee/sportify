@@ -1,2 +1,3 @@
 # sportify
-Body &amp; mind support for athletes
+
+Body and mind support for athletes
